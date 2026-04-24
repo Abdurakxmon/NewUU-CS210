@@ -1,0 +1,5 @@
+What is a class in Java?|A blueprint for creating objects.
+What is an object?|An instance of a class.
+What does extends mean in Java?|It means a class inherits from another class.
+What is encapsulation?|Hiding internal data and exposing controlled access through methods.
+What is polymorphism?|The ability of one interface or method to work in different forms.
